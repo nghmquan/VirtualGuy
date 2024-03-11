@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Apple
   - Trap
+  - Platform
   layers:
   - Default
   - TransparentFX
@@ -48,4 +49,7 @@ TagManager:
     locked: 0
   - name: Ground
     uniqueID: 2013005819
+    locked: 0
+  - name: Over Background
+    uniqueID: 507209553
     locked: 0
